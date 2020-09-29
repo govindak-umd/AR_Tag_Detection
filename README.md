@@ -1,51 +1,63 @@
-
--------------------------------------------------------------
+Author
+--
+     Govind Ajith Kumar
+     Masters in Robotics
+     University of Maryland
+     MD, USA
+     
+     Rajeshwar NS
+     Masters in Robotics
+     University of Maryland
+     MD, USA
+     
 There are four codes attached without any sub-directories. 
 All the media files have been attached there as well, to read the data from the same folder.
 Two notebooks in which the entirety of the code was developed is attached as well.
 
-Programme used:
-Python 3.7
-OpenCV 4.xx
-The four .py files are as follows :
+Youtube Links
+--
+	https://youtu.be/iD1m-d3b4Wo
+	https://youtu.be/GgHms6PiGwU
+	https://youtu.be/nj6Qb8LrasQ
+	https://youtu.be/FdbI6sT7Sug
 
-Tag Detection and ID.py
-Lena on AR Tag.py
-Cube on AR Tag.py
-Multiple Tags.py
-
-The following media files are important to run the .py files without any errors:
-
-Lena.png
-Tag0.mp4
-Tag1.mp4
-Tag2.mp4
-multipleTags.mp4
-
-Steps to run the programme:
-
-1. Make sure the following libraries are installed and imported properly:
+Language Used
+--
+	Python 3.7
+	OpenCV 4.xx
+	
+Libraries Needed
+--
 	numpy
 	OpenCV-Python3
 	matplotlib
 	functools - reduce
 	operator
 	math
+The four .py files are as follows
+--
+	Tag Detection and ID.py
+	Lena on AR Tag.py
+	Cube on AR Tag.py
+	Multiple Tags.py
 
-2. Make sure the videos and the Lena image are placed in the same folder as the code. (Note::  > Please paste them seperately in the directory, as the upload size was very high (approx: 212MB))
+Necessary Media Files:
+--
 
-3. Run the code Tag_Detection_and_ID.py for AR tag detection and the encoding. Give different video names for other labels. Check the output console for the encoded label.
+	Lena.png
+	Tag0.mp4
+	Tag1.mp4
+	Tag2.mp4
+	multipleTags.mp4
 
-4. Run the code to perform Cube_on_AR_Tag.py superimposing an image on the detected tag.
+Steps to run the programme
+--
 
-5. Run the code Cube_on_AR_Tag.py to render a 3D cube on the tag.
+> Make sure the videos and the Lena image are placed in the same folder as the code. (Note::  > Please paste them seperately in the directory, as the upload size was very high (approx: 212MB))
 
-Note:
+> Run the code Tag_Detection_and_ID.py for AR tag detection and the encoding. Give different video names for other labels. Check the output console for the encoded label.
 
-All the videos that are shown on the screen are recorded and will be populated in the folder as well.
-A link to the videos are pasted below :
+> Run the code to perform Cube_on_AR_Tag.py superimposing an image on the detected tag.
 
-https://youtu.be/iD1m-d3b4Wo
-https://youtu.be/GgHms6PiGwU
-https://youtu.be/nj6Qb8LrasQ
-https://youtu.be/FdbI6sT7Sug
+> Run the code Cube_on_AR_Tag.py to render a 3D cube on the tag.
+
