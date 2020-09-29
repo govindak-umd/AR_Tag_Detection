@@ -24,12 +24,11 @@ Youtube Links
 Language Used
 --
 	Python 3.7
-	OpenCV 4.xx
 	
 Libraries Needed
 --
+	OpenCV 4.xx
 	numpy
-	OpenCV-Python3
 	matplotlib
 	functools - reduce
 	operator
